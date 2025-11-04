@@ -23,7 +23,7 @@ const app = express();
 
 
 app.use(cors({
-  origin: ["http://localhost:5173", "https://your-frontend.vercel.app"],
+  origin: ["http://localhost:5173", "https://food-ordering-website-frontend-tawny.vercel.app/"],
   credentials: true
 }));
 app.use(express.json());
