@@ -23,7 +23,7 @@ const app = express();
 
 
 app.use(cors({
-  origin: ["https://food-ordering-website-frontend-cmu1.vercel.app/", "https://food-ordering-website-frontend-tawny.vercel.app"],
+  origin: ["https://food-ordering-website-frontend-cmu1.vercel.app/", "https://food-ordering-website-frontend-tawny.vercel.app","https://food-ordering-website-frontend-sy8w.vercel.app/"],
   credentials: true
 }));
 app.use(express.json());
