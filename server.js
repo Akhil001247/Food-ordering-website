@@ -22,14 +22,15 @@ connectDB();
 const app = express();
 
 
-app.use(cors({
-  origin: [
-    "https://food-ordering-website-frontend-cmu1.vercel.app",
-    "https://food-ordering-website-frontend-tawny.vercel.app",
-    "https://food-ordering-website-frontend-sy8w.vercel.app"
-  ],
-  credentials: true
-}));
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://food-ordering-website-frontend.vercel.app",
+    ],
+    credentials: true,
+  })
+);
 app.use(express.json());
 
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
