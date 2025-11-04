@@ -18,7 +18,7 @@ const hotels = [
     state: "Kerala",
     pincode: "560001",
     contact: "+91 9876543210",
-    image: "http://localhost:5000/uploads/hotelimages/Golden-Spice.jpg",
+    image: "/uploads/hotelimages/Golden-Spice.jpg",
     rating: 4.6,
   },
   {
@@ -28,7 +28,7 @@ const hotels = [
     state: "West Bengal",
     pincode: "700016",
     contact: "+91 9123456780",
-    image: "http://localhost:5000/uploads/hotelimages/Royal-Tandoor.jpg",
+    image: "/uploads/hotelimages/Royal-Tandoor.jpg",
     rating: 4.4,
   },
   {
@@ -38,7 +38,7 @@ const hotels = [
     state: "Tamil Nadu",
     pincode: "600040",
     contact: "+91 9865321470",
-    image: "http://localhost:5000/uploads/hotelimages/Spicy-Treats.jpg",
+    image: "/uploads/hotelimages/Spicy-Treats.jpg",
     rating: 4.3,
   },
   {
@@ -48,7 +48,7 @@ const hotels = [
     state: "Telangana",
     pincode: "500002",
     contact: "+91 9012345678",
-    image: "http://localhost:5000/uploads/hotelimages/UrbanBiryani-House.jpg",
+    image: "/uploads/hotelimages/UrbanBiryani-House.jpg",
     rating: 4.7,
   },
   {
@@ -58,7 +58,7 @@ const hotels = [
     state: "Maharashtra",
     pincode: "400020",
     contact: "+91 9223344556",
-    image: "http://localhost:5000/uploads/hotelimages/Seafood-Bay.jpg",
+    image: "/uploads/hotelimages/Seafood-Bay.jpg",
     rating: 4.5,
   },
   {
@@ -68,7 +68,7 @@ const hotels = [
     state: "Uttar Pradesh",
     pincode: "201301",
     contact: "+91 9988776655",
-    image: "http://localhost:5000/uploads/hotelimages/NorthSpice-Hub.jpg",
+    image: "/uploads/hotelimages/NorthSpice-Hub.jpg",
     rating: 4.2,
   },
   {
@@ -78,7 +78,7 @@ const hotels = [
     state: "Delhi",
     pincode: "110001",
     contact: "+91 9001122334",
-    image: "http://localhost:5000/uploads/hotelimages/Desi-Zaika.jpg",
+    image: "/uploads/hotelimages/Desi-Zaika.jpg",
     rating: 4.8,
   },
   {
@@ -88,7 +88,7 @@ const hotels = [
     state: "Punjab",
     pincode: "160017",
     contact: "+91 9090808070",
-    image: "http://localhost:5000/uploads/hotelimages/Punjabi-Rasoi.jpg",
+    image: "/uploads/hotelimages/Punjabi-Rasoi.jpg",
     rating: 4.4,
   },
   {
@@ -98,7 +98,7 @@ const hotels = [
     state: "Gujarat",
     pincode: "380007",
     contact: "+91 9334455667",
-    image: "http://localhost:5000/uploads/hotelimages/Veggie-Delight.jpg",
+    image: "/uploads/hotelimages/Veggie-Delight.jpg",
     rating: 4.1,
   },
   {
@@ -108,7 +108,7 @@ const hotels = [
     state: "Kerala",
     pincode: "682001",
     contact: "+91 9445566778",
-    image: "http://localhost:5000/uploads/hotelimages/Kerala-Flavours.jpg",
+    image: "/uploads/hotelimages/Kerala-Flavours.jpg",
     rating: 4.6,
   },
   {
@@ -118,7 +118,7 @@ const hotels = [
     state: "Kerala",
     pincode: "673032",
     contact: "+91 9847012345",
-    image: "http://localhost:5000/uploads/hotelimages/Malabar-Delights.jpg",
+    image: "/uploads/hotelimages/Malabar-Delights.jpg",
     rating: 4.7,
   },
   {
@@ -128,7 +128,7 @@ const hotels = [
     state: "Kerala",
     pincode: "695527",
     contact: "+91 9895123456",
-    image: "http://localhost:5000/uploads/hotelimages/Seaside-Spice.jpg",
+    image: "/uploads/hotelimages/Seaside-Spice.jpg",
     rating: 4.5,
   },
   {
@@ -138,7 +138,7 @@ const hotels = [
     state: "Kerala",
     pincode: "686563",
     contact: "+91 9746123456",
-    image: "http://localhost:5000/uploads/hotelimages/ToddyShop-Taste.jpg",
+    image: "/uploads/hotelimages/ToddyShop-Taste.jpg",
     rating: 4.4,
   },
   {
@@ -148,7 +148,7 @@ const hotels = [
     state: "Kerala",
     pincode: "688001",
     contact: "+91 9947123456",
-    image: "http://localhost:5000/uploads/hotelimages/Backwater-Treats.jpg",
+    image: "/uploads/hotelimages/Backwater-Treats.jpg",
     rating: 4.8,
   },
   {
@@ -158,7 +158,7 @@ const hotels = [
     state: "Kerala",
     pincode: "680001",
     contact: "+91 9072123456",
-    image: "http://localhost:5000/uploads/hotelimages/Chaya-Kada.jpg",
+    image: "/uploads/hotelimages/Chaya-Kada.jpg",
     rating: 4.3,
   },
 ];
